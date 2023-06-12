@@ -1,0 +1,12 @@
+Compilation Exception
+	Caused by 312ERROR Expected begin instead of begim in line 1
+
+Compilation Exception
+	Caused by 312ERROR Expected an else or an end if identifier in line 11
+
+Compilation Exception
+	Caused by 312ERROR Expected "loop" instead of ; in line 7
+
+Compilation Exception
+	Caused by 312ERROR Expected a statement instead of else in line 4
+
